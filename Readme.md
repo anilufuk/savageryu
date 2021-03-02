@@ -15,7 +15,7 @@
 
 ### Contact With Me 🤙
 
-[<img align="left" alt="Ryú | Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
+[<img align="left" alt="Savage | Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
 
 
 <br />
@@ -30,4 +30,4 @@
 <br />
 <br />
 
-[discord]: https://discord.gg/https://discord.gg/mDdZvMQAvX
+[discord]: https://discord.gg/https://discord.gg/savage
